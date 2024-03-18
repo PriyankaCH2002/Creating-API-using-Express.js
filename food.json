@@ -1,0 +1,111 @@
+{
+    "Sheet1":[
+    {
+      "name": "Banana",
+      "group": "Fruits",
+      "description": "A yellow, curved fruit with a soft, starchy flesh and a sweet flavor.",
+      "nutritionalInfo": {
+        "calories": 105,
+        "macronutrients": {
+          "protein": 1.3,
+          "fat": 0.4,
+          "carbs": 27,
+          "saturatedFat": 0.1,
+          "unsaturatedFat": 0.2,
+          "transFat": 0,
+          "sugar":0
+        },
+        "micronutrients": {
+          "vitaminA": "87 IU",
+          "vitaminC": "8.9 mg",
+          "potassium": "422 mg"
+        },
+        "fiber": "2.7 grams",
+        "sodium": "14 mg",
+        "cholesterol": "0 mg"
+      },
+      "servingSize": "1 medium banana (118 grams)",
+      "allergens": [],
+      "ingredients": ["N/A"],
+      "preparationMethods": "Can be eaten raw, blended, fried, etc.",
+      "certifications": ["Organic"],
+      "origin": "Southeast Asia",
+      "brand": "N/A",
+      "dietaryRestrictions": ["Vegan", "Gluten-free"],
+      "healthBenefits": ["Rich in potassium, good source of fiber, supports heart health"],
+      "bestPractices": "Store at room temperature, avoid storing in the refrigerator"
+    },
+
+    {
+      "name": "Broccoli",
+      "group": "Vegetables",
+      "description": "A cruciferous vegetable with a green stalk and small, tightly clustered flowerets.",
+      "nutritionalInfo": {
+        "calories": 34,
+        "macronutrients": {
+          "protein": 2.8,
+          "fat": 0.3,
+          "carbs": 7.0,
+          "saturatedFat": 0.1,
+          "unsaturatedFat": 0.1,
+          "transFat": 0,
+          "sugar":1
+        },
+        "micronutrients": {
+          "vitaminC": "89.2 mg",
+          "vitaminK": "110 mcg",
+          "potassium": "316 mg"
+        },
+        "fiber": "2.4 grams",
+        "sodium": "30 mg",
+        "cholesterol": "0 mg"
+      },
+      "servingSize": "1 cup (91 grams) raw",
+      "allergens": [],
+      "ingredients": ["N/A"],
+      "preparationMethods": "Can be steamed, roasted, stir-fried, etc.",
+      "certifications": ["Organic" ],
+      "origin": "Mediterranean region",
+      "brand": "N/A",
+      "dietaryRestrictions": ["Vegan", "Vegetarian", "Gluten-free"],
+      "healthBenefits": ["Rich in vitamins C and K, good source of fiber, supports healthy digestion"],
+      "bestPractices": "Store in the refrigerator unwashed in a breathable bag"
+    },
+    {
+      "name": "Salmon",
+      "group": "Proteins",
+      "description": "A type of oily fish known for its pink or orange flesh and rich flavor.",
+      "nutritionalInfo": {
+        "calories": 206,
+        "macronutrients": {
+          "protein": 22.0,
+          "fat": 13.6,
+          "carbs": 0.0,
+          "saturatedFat": 5.0,
+          "unsaturatedFat": 6.1,
+          "transFat": 0.5,
+          "sugar":1.5
+        },
+        "micronutrients": {
+          "vitaminD": "525 IU",
+          "vitaminB12": "4.0 mcg",
+          "selenium": "72.6 mcg"
+        },
+        "fiber": "0 grams",
+        "sodium": "62 mg",
+        "cholesterol": "70 mg"
+      },
+      "servingSize": "3 oz (85 grams) cooked",
+      "allergens": ["Fish"],
+      "ingredients": ["N/A"],
+      "preparationMethods": "Can be baked, grilled, pan-fried, etc.",
+      "certifications": ["Wild-caught" ],
+      "origin": "Mediterranean region",
+      "brand": "N/A",
+      "dietaryRestrictions": ["Vegan", "Vegetarian", "Gluten-free"],
+      "healthBenefits": ["Rich in vitamins C and K, good source of fiber, supports healthy digestion"],
+      "bestPractices": "Store in the refrigerator unwashed in a breathable bag"
+      
+    }
+]
+}
